@@ -1,1 +1,2 @@
 # python-project
+Developed a machine learning model to detect fraudulent credit card transactions from a highly imbalanced dataset of 280,000+ entries. Performed exploratory data analysis (EDA) to identify key patterns and feature correlations. Used StandardScaler for normalization and split data into training and testing sets. Applied SMOTE to balance the dataset, improving model accuracy. Trained a Random Forest Classifier and evaluated its performance using precision, recall, F1-score, and confusion matrix.
